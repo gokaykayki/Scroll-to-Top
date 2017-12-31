@@ -1,0 +1,22 @@
+{
+  "extName": {
+    "message": "Scroll to Top",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Go to the top of the page with a click on long pages.",
+    "description": "Extension description"
+  },
+  "extBrowserTitle":{
+    "message": "Scroll to Top Settings",
+    "description": "Extension browser title"
+  },
+  "extWorking":{
+    "message": "Extension is working",
+    "description": "Working status text(1)"
+  },
+  "extNotWorking":{
+    "message": "Extension is not working",
+    "description": "Working status text(2)"
+  }
+}
